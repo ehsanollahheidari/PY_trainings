@@ -25,3 +25,4 @@ for level in range (1,4) :
 print (f"\n Your total score is {total_score}")
 print ("End of the game!")
 
+
